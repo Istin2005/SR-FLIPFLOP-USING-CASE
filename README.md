@@ -64,7 +64,7 @@ nand (qbar,q,w2);
 endmodule
 ```
 **RTL LOGIC FOR FLIPFLOPS**
-![Screenshot (264)](https://github.com/user-attachments/assets/b007735d-ccbd-404a-ad1a-3e146ed9a33d)
+![Screenshot 2024-10-24 105737](https://github.com/user-attachments/assets/0df95738-2faf-483a-9693-c9688cb1dfb2)
 
 
 
